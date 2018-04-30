@@ -160,11 +160,11 @@ h2 {
 
 .botao-readmore1 {
 	background-color: #82CA9C;
-    width: 185.2px;
-    height: 75.18px;
-    position: absolute;
-    top: 1290px;
-    left: 690px;
+    	width: 185.2px;
+   	 height: 75.18px;
+    	position: absolute;
+    	top: 1290px;
+    	left: 690px;
 }
 
 .paragraf-botao-readmore1 {
@@ -184,10 +184,10 @@ h2 {
 }
 
 .product-descriptions {
-    font-size: 50px;
-    margin-top: 8%;
-    margin-left: 2%;
-    padding: 40px;
+    	font-size: 50px;
+    	margin-top: 8%;
+    	margin-left: 2%;
+	padding: 40px;
 }
 
 .conteudo-product-4 {
@@ -267,11 +267,11 @@ h2 {
 
 .flaticon1 {
 	display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    width: 85.45px;
-    height: 57.68px;
+    	justify-content: center;
+    	align-items: center;
+    	flex-direction: column;
+    	width: 85.45px;
+    	height: 57.68px;
 }
 
 .h2-affordable-services-pkg {
@@ -398,16 +398,16 @@ h2 {
 .p-communityedition {
 	text-align: center;
 	color: #777777;
-    width: 80%;    
+    	width: 80%;    
 }
 
 .grandecontainer-livros2 {
 	display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 1%;
-    margin-left: 3%;
-    padding: 1%;
+    	justify-content: center;
+ 	align-items: center;
+	margin: 1%;
+    	margin-left: 3%;
+	padding: 1%;
 }
 
 .container-livros2 {
@@ -416,17 +416,17 @@ h2 {
 	align-items: center;
 	flex-direction: column;
 	background-color: #fff;
-    margin: 2%;
-    width: 100%;
-    border-style: solid;
-    border-width: 2px;
-    border-color: #707070;  
+    	margin: 2%;
+    	width: 100%;
+    	border-style: solid;
+    	border-width: 2px;
+    	border-color: #707070;  
 }
 
 .p-communityedition2 {
 	text-align: center;
 	color: #777777;
-    width: 80%; 
+    	width: 80%; 
 }
 
 .section-getintouch {
@@ -465,11 +465,6 @@ form {
 	margin: 2%;
 }
 
-
-
-
-
-
 .paragrafos-getintouch {
 	text-align: 62%;
 	width: 62%;
@@ -487,15 +482,15 @@ form {
 
 .icon-facebook {
 	width: 30.87px;
-    height: 30.87px;
-    margin-top: 77px;
-    margin-left: 346px;
+    	height: 30.87px;
+    	margin-top: 77px;
+    	margin-left: 346px;
 }
 
 .icon-linkedin {
 	width: 33.1px;
-    height: 30.87px;
-    margin-left: 37px;
+    	height: 30.87px;
+    	margin-left: 37px;
 }
 
 .botao-submit {
@@ -504,7 +499,6 @@ form {
 	width: 185.2px;
 	height: 75.18px;
 	margin-left: 3%;
-
 }
 
 .p-submit {
